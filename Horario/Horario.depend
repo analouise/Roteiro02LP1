@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575554508 source:c:\users\aluno\documents\llp01\horario\main.cpp
+	<iostream>
+	"Horario.h"
+
+1575554438 c:\users\aluno\documents\llp01\horario\include\horario.h
+
