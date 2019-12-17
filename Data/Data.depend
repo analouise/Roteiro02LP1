@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575933781 source:/home/louise/Documentos/P2/LP1/Maritan_R02/Data/main.cpp
+	<iostream>
+	"Data.h"
+
+1575934694 /home/louise/Documentos/P2/LP1/Maritan_R02/Data/include/Data.h
+	<string>
+
